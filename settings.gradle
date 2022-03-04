@@ -1,0 +1,2 @@
+include ':app', 'app1', 'splash'
+rootProject.name='PhoneAuth'
